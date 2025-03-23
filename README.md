@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/ed4e3bce-d826-43f5-a086-ae60b614afb2)## 基于Springboot垃圾分类网站(源代码+LW+PPT+数据库)
+## 基于Springboot垃圾分类网站(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
